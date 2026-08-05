@@ -1,0 +1,27 @@
+1,OP-2026-1008,REGISTRO_COMPLETO,EXISTE,NO_EXISTE,Operacion en BD pero no en API
+2,OP-2026-1057,REGISTRO_COMPLETO,EXISTE,NO_EXISTE,Operacion en BD pero no en API
+3,OP-2026-1099,REGISTRO_COMPLETO,EXISTE,NO_EXISTE,Operacion en BD pero no en API
+4,OP-2026-2001,REGISTRO_COMPLETO,NO_EXISTE,EXISTE,Operacion en API pero no en BD
+5,OP-2026-2002,REGISTRO_COMPLETO,NO_EXISTE,EXISTE,Operacion en API pero no en BD
+6,OP-2026-1002,monto,1694.30,1694.3,Diferencia en monto
+7,OP-2026-1003,monto,5310.90,5810.9,Diferencia en monto
+8,OP-2026-1009,monto,98.10,98.1,Diferencia en monto
+9,OP-2026-1015,cliente,COMERCIAL  ANDINA S.A.,Comercial Andina S.A.,Diferencia en cliente
+10,OP-2026-1018,estado,Pendiente,Rechazado,Diferencia en estado
+11,OP-2026-1019,fecha_operacion,2026-07-01,2026-01-07,Diferencia en fecha_operacion
+12,OP-2026-1023,cliente,None,Tecnologia Integral EC,Diferencia en cliente
+13,OP-2026-1025,monto,4051.70,4051.7,Diferencia en monto
+14,OP-2026-1027,monto,4816.31,4730.91,Diferencia en monto
+15,OP-2026-1042,monto,-1240.50,-1240.5,Diferencia en monto
+16,OP-2026-1044,monto,6208.86,7408.86,Diferencia en monto
+17,OP-2026-1055,fecha_operacion,2026-08-01,2026-01-08,Diferencia en fecha_operacion
+18,OP-2026-1063,estado,Completado,Pendiente,Diferencia en estado
+19,OP-2026-1066,monto,6576.00,6576.0,Diferencia en monto
+20,OP-2026-1071,cliente,None,Servicios Portuarios Esmeraldas,Diferencia en cliente
+21,OP-2026-1080,monto,3227.02,3227.03,Diferencia en monto
+22,OP-2026-1093,monto,1679.30,1679.3,Diferencia en monto
+23,OP-2026-1106,monto,3229.70,3229.7,Diferencia en monto
+24,OP-2026-1107,monto,146.40,146.4,Diferencia en monto
+25,OP-2026-1110,monto,2929.08,2498.83,Diferencia en monto
+26,OP-2026-1118,monto,1874.70,1874.7,Diferencia en monto
+27,OP-2026-1119,monto,7026.50,7026.5,Diferencia en monto
